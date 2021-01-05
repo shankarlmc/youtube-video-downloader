@@ -1,0 +1,6 @@
+Package           Version
+----------------- -------
+pip               20.3.3
+pytube            10.4.1
+setuptools        51.1.1
+typing-extensions 3.7.4.3
